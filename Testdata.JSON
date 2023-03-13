@@ -1,1 +1,11 @@
-[{"id": 1,"Name": "Fehler A","ArtikelRef": "Artikel 1"},{"id": 2,"Name": "Fehler B","ArtikelRef": "Artikel 1"}]
+{
+ "Fehler1":{
+   "id": 1,
+   "Name": "Fehler A",
+   "ArtikelRef": "Artikel 1"
+ },
+ "Fehler2":{
+   "id": 2,
+   "Name": "Fehler B",
+   "ArtikelRef": "Artikel 1"}
+}
