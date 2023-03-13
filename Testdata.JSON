@@ -1,5 +1,5 @@
 {
-	"Fehler": [{
+	"FehlerDB": [{
 			"id": 1,
 			"Name": "Fehler A",
 			"ArtikelRef": "Artikel 1"
