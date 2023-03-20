@@ -2,12 +2,17 @@
 	"FehlerDB": [{
 			"id": 1,
 			"Name": "Fehler A",
-			"ArtikelRef": "JSON Github"
+			"ArtikelRef": "B3299"
 		},
 		{
 			"id": 2,
 			"Name": "Fehler B",
-			"ArtikelRef": "Artikel Test"
-		}
+			"ArtikelRef": "B3255"
+		},
+        {
+        "id": 3,
+        "Name": "Fehler C",
+        "ArtikelRef": "B3299"
+        }
 	]
 }
