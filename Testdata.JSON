@@ -3,18 +3,18 @@
 			"id": 1,
 			"Name": "Fehler A",
 			"ArtikelRef": "B3299",
-            "imageUrl": "https://raw.githubusercontent.com/chrisPi2701/QA-Pics/main/3DBF1E7C-86C2-4E0A-BC1A-7755F6513718.jpeg"
+   "imageUrl": "https://raw.githubusercontent.com/chrisPi2701/QA-Pics/main/3DBF1E7C-86C2-4E0A-BC1A-7755F6513718.jpeg"
 		},
 		{
 			"id": 2,
 			"Name": "Fehler B",
-			"ArtikelRef": "B3255"
-           "imageUrl": "https://raw.githubusercontent.com/chrisPi2701/QA-Pics/main/3DBF1E7C-86C2-4E0A-BC1A-7755F6513718.jpeg"
+			"ArtikelRef": "B3255",
+   "imageUrl": "https://raw.githubusercontent.com/chrisPi2701/QA-Pics/main/3DBF1E7C-86C2-4E0A-BC1A-7755F6513718.jpeg"
 		},
         {
         "id": 3,
         "Name": "Fehler C",
-        "ArtikelRef": "B3299"
+        "ArtikelRef": "B3299",
         "imageUrl": "https://raw.githubusercontent.com/chrisPi2701/QA-Pics/main/3DBF1E7C-86C2-4E0A-BC1A-7755F6513718.jpeg"
         }
 	]
