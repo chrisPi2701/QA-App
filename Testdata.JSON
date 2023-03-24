@@ -1,20 +1,20 @@
 {
 	"FehlerDB": [{
-			"id": "1-1",
+			"id": "eaee5b0d-10eb-4055-83c7-5e18ced9a137",
 			"Name": "Ausbruch am Kragen",
 			"position": "umlaufend",
 			"ArtikelRef": "B3299",
    "imageUrl": "https://raw.githubusercontent.com/chrisPi2701/QA-Pics/main/3DBF1E7C-86C2-4E0A-BC1A-7755F6513718.jpeg"
 		},
 		{
-		"id": "2-1",
+		"id": "57df148b-f7dc-4479-8c90-7f321c1a8eec",
 			"Name": "Fehler B",
 			"position": "unten",
 			"ArtikelRef": "B3255",
    "imageUrl": "https://raw.githubusercontent.com/chrisPi2701/QA-Pics/main/7F6C3A26-3E59-40AF-9C14-93CDA7FBF1A1.jpeg"
 		},
         {
-  "id": "1-2",
+  "id": "b0052745-a938-4254-8bb8-fad035fdcf15",
         "Name": "Fehler C",
 								"position": "oben",
         "ArtikelRef": "B3299",
